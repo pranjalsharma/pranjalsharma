@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 </h1>
 
 ### 📬 Find me at
-[![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/pranjalsharma/)](https://github.com/pranjalsharma/) 
+[![GitHub follow](https://img.shields.io/github/followers/pranjalsharma?label=Follow&style=social)](https://github.com/pranjalsharma/?tab=follow)
+<!-- [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/pranjalsharma/)](https://github.com/pranjalsharma/) --> 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/askpranjal/)](https://www.linkedin.com/in/askpranjal)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/askpranjal/)](https://www.twitter.com/askpranjal)
 
