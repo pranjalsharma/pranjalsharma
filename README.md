@@ -33,7 +33,7 @@ I teach Computer Science **🎓 [@ University of Hertfordshire](https://www.hert
 
 ## ⚡️ A Few Quick Facts
 
-- 🎓 I’m currently working as a Teaching Fellow at **[@ University of Hertfordshire](https://www.herts.ac.uk/)**
+- 🎓 I’m currently working as a Teaching Fellow **[@ University of Hertfordshire](https://www.herts.ac.uk/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning
   - 🖼 Computer Vision
