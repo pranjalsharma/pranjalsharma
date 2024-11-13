@@ -28,21 +28,21 @@ Here are some ideas to get you started:
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I teach Computer Science **🎓 [@ University of Hertfordshire](https://www.herts.ac.uk/)** . I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+I teach Computer Science **🎓 [@ University of Hertfordshire](https://www.herts.ac.uk/)** . I am a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
 
 
 
 ## ⚡️ A Few Quick Facts
 
-- 🎓 I’m currently working as a Teaching Fellow **[@ University of Hertfordshire](https://www.herts.ac.uk/)**
+- 🎓 I am currently working as a Teaching Fellow **[@ University of Hertfordshire](https://www.herts.ac.uk/)**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning
   - 🖼 Computer Vision
   - 🛠 DIY Raspberry Pi and Arduino Projects
   - 🤖 Robotics
 - 📝 I write technical blogs and articles
-- 👯 I’m looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
-- 💬 Ask me about Python, ML, DL, CV, NLP
+- 👯 I am looking to collaborate on making hardware projects with Raspberry Pi or Nvidia Jetson Nano
+- 💬 Ask me about Python, ML, DL, CV, NLP, ROS2, and LLMs
 - 🎉 Fun-Fact: I ❤️ Astrophysics and SpaceX🚀 and watch a lot Sci-Fi Movies🎬 <br/><br/>
 
 
